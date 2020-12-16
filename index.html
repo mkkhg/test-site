@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Welcome to KhG HQ! | </title>
+<link href="assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<link rel="canonical" href="https://khyzhnyakgroup.com/">
+<!--[if lt IE 9]>
+            <script src="assets/js/html5shiv.min.js"></script>
+            <script src="assets/js/respond.min.js"></script>
+        <![endif]--><meta name="author" content="Michael Khyzhnyak">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-info header-panel shadow-z-3" role="navigation"><div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-3">
+            <h1 class="title-blog">
+                <a href="https://khyzhnyakgroup.com/">
+                        <img src="khg.emblem.jpg" alt="" id="logo"><span id="blog-title"></span>
+                    </a>
+            </h1>
+          </div>
+          <div class="col-xs-9">
+            <a id="hamburger" class="btn btn-raised" href="javascript:void(0);" onclick="menuToggle();">☰</a>
+          </div>
+        </div>
+      </div>
+<!-- /.container-fluid -->
+</nav><div class="container-fluid main" id="content" role="main">
+        <div class="row">
+            <nav class="col-xs-12 col-sm-3 menu"><ul></ul>
+<ul></ul></nav><div class="posts-material col-xs-12 col-sm-9">
+                <div class="col-xs-12 col-md-11 content-material">
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Welcome to KhG HQ!</a></h1>
+<hr></header><div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+<p>We are KhyzhnyakGroup (KhG), a privately held group of businesses. The group is owned by the Khyzhnyak family.
+We specialize in organizational changes in operational management and Customer support.</p>
+<p>Currently, we have two directions - solutions with:</p>
+<ul class="simple">
+<li><p>Operational management (<a class="reference external" href="https://vcoo.khyzhnyakgroup.com">https://vcoo.khyzhnyakgroup.com</a>)</p></li>
+<li><p>Customer Support Centers. (<a class="reference external" href="https://usc.khyzhnyakgroup.com">https://usc.khyzhnyakgroup.com</a>)</p></li>
+</ul>
+<p>We focus mostly on IT related solutions. But you may ask questions and raise tasks from any industry. The main principles of management are independent of industries. Also, we have a broad network of experts in other industries. So if we do not take a task, we may recommend somebody, who can do it.</p>
+<p>We may consult you, as well as implement our solutions. We make decisions and implement them in collaboration with your people. For effective decisions and implementation, we use a network of experts and masters with broad competencies.</p>
+<p>We build a task force for the exact task. The team has only needed people.</p>
+<p>We are lazy in a good sense. We build adaptive and self-adjusting teams. So they do not require our regular management.</p>
+<p>In the modern, fast-paced world, we do not promise a 100% result from the first try. But we apply all our efforts and resources up until your satisfaction.</p>
+<p>Please choose a company, interesting for you:</p>
+<ul class="simple">
+<li><p>KhG solutions with operations management.</p></li>
+<li><p>KhG solutions with Customer Support Centers.</p></li>
+</ul>
+<p>If you need any custom IT or management solution, drop us a message today, and find out what you can get for your business. We will see what we can do. Even if we do not take the task, we may recommend somebody, who will do it for you, or advise something.</p>
+</div>
+    </div>
+    
+</article>
+</div>
+            </div>
+        </div>
+        <button class="btn btn-fab btn-raised btn-material-green btn-footer" data-toggle="modal" data-target="#footer-dialog">
+            <i class="mdi-communication-message"></i>
+        </button>
+        <div id="footer-dialog" class="modal fade" tabindex="-1">
+          <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title"> credits</h4>
+              </div>
+              <div class="modal-body">
+                    
+                    
+              </div>
+              <div class="modal-footer">
+                <button class="btn btn-primary" data-dismiss="modal">Ok</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="source-button">
+    <a class="btn btn-fab btn-raised btn-material-indigo" target="_blank" href="index.rst" title="Source">
+        <i class="mdi-file-cloud-download"></i>
+    </a>
+
+        </div>
+</div>
+
+
+            <script src="assets/js/all-nocdn.js"></script><script>
+
+            $(document).ready(function() {
+                // This command is used to initialize some elements and make them work properly
+                $.material.init();
+            });
+
+            $(window).on("resize", function() {
+                if($(window).width() > 767) {
+                  $("html, body").height($(window).height());
+                  $(".main, .menu").height($(window).height() - $(".header-panel").outerHeight() - 76 );
+                  $(".posts-material").height($(window).height());
+                } else {
+                  $("html, body").css('height', '');
+                  $(".main, .menu").css('height', '');
+                  $(".posts-material").css('height', '');
+                }
+            }).trigger("resize");
+
+            function menuToggle() {
+                $("nav.menu, ul").toggleClass('responsive', '');
+            }
+        </script><!-- fancy dates --><script>
+    moment.locale("en");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>
