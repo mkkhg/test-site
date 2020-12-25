@@ -32,3 +32,44 @@ Please choose a company, interesting for you:
 - KhG solutions with Customer Support Centers.
 
 If you need any custom IT or management solution, drop us a message today, and find out what you can get for your business. We will see what we can do. Even if we do not take the task, we may recommend somebody, who will do it for you, or advise something.
+
+
+
+.. form::
+
+   {
+    "schema": {
+        "title": "Request a callback",
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "title": "Your Name",
+                "required":true
+            },
+            "callbackid": {
+                "type": "string",
+                "title": "CallBack ID (Skype, phone, email)",
+                "required":true
+            },
+            "message": {
+                "type": "string",
+                "title": "Your Message (optional)"
+            },
+        }
+    },
+    "options": {
+                        "form":{
+                            "attributes":{
+                                "action":"http://httpbin.org/post",
+                                "method":"post"
+                            },
+                            "buttons":{
+                                "submit":{}
+                            },
+
+                        },
+                        "helper":"Send contact data, and we will get back to you"
+                        }
+
+  }
