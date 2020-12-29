@@ -107,15 +107,30 @@
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js"></script><script type="text/javascript" src="//cdn.jsdelivr.net/npm/alpaca@1.5.27/dist/alpaca/bootstrap/alpaca.min.js"></script><!--
+    </script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js"></script><script type="text/javascript" src="//cdn.jsdelivr.net/npm/alpaca@1.5.27/dist/alpaca/bootstrap/alpaca.min.js"></script><script type="text/javascript">
+ input.onfocus = function () {
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0;
+    }
+
+</script><!--
+
+$(function(){
+        $('input').blur();
+    });
+
+<!--
 <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+https://stackoverflow.com/questions/6740253/disable-scrolling-when-changing-focus-form-elements-ipad-web-app/31472878#31472878
 --><script>
+
 $(document).ready(function() {
     $('div.alpacaform').each(function(index, element) {
         data = eval(element.id+'_data');
         Alpaca(element, data);
     });});
+
 </script>
 </body>
 </html>

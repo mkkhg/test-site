@@ -2,19 +2,26 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Tags">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tags | KhyzhnyakGroup HeadQuarters - main site</title>
+<title>galleries | KhyzhnyakGroup HeadQuarters - main site</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
-<link rel="canonical" href="https://khyzhnyakgroup.com/categories/">
+<link rel="canonical" href="https://khyzhnyakgroup.com/galleries/">
 <!--[if lt IE 9]>
             <script src="../assets/js/html5shiv.min.js"></script>
             <script src="../assets/js/respond.min.js"></script>
         <![endif]--><link type="text/css" href="//cdn.jsdelivr.net/npm/alpaca@1.5.27/dist/alpaca/bootstrap/alpaca.min.css" rel="stylesheet">
 <!--
          <link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" />
-         -->
+         --><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<style type="text/css">
+    .image-block {
+        display: inline-block;
+    }
+    .flowr_row {
+        width: 100%;
+    }
+    </style>
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -40,11 +47,12 @@
             <nav class="col-xs-12 col-sm-3 menu"><ul></ul>
 <ul></ul></nav><div class="posts-material col-xs-12 col-sm-9">
                 <div class="col-xs-12 col-md-11 content-material">
-<div class="page">
-
-    <h1>Tags</h1>
-    <hr>
-</div>
+    <div class="page">
+        <nav class="breadcrumbs"><ul class="breadcrumb">
+<li>galleries</li>
+</ul></nav><h1>galleries</h1>
+        <div id="gallery_container"></div>
+    </div>
                 </div>
             </div>
         </div>
@@ -103,7 +111,12 @@
         </script><!-- fancy dates --><script>
     moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script>
+    </script><!-- end fancy dates --><script src="../assets/js/justified-layout.min.js"></script><script src="../assets/js/gallery.min.js"></script><script>
+var jsonContent = [];
+var thumbnailSize = 180;
+renderGallery(jsonContent, thumbnailSize);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
+</script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element) {

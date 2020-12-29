@@ -45,7 +45,7 @@ If you need any custom IT or management solution, drop us a message today, and f
             "name": {
                 "type": "string",
                 "title": "Your Name",
-                "required":true
+                "required":true,
             },
             "callbackid": {
                 "type": "string",
@@ -69,7 +69,9 @@ If you need any custom IT or management solution, drop us a message today, and f
                             },
 
                         },
-                        "helper":"Send contact data, and we will get back to you"
+                        "helper":"Send contact data, and we will get back to you",
+                        "focus":false,
+                        "hideInitValidationError":true
                         }
 
   }
