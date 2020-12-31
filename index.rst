@@ -33,45 +33,61 @@ Please choose a company, interesting for you:
 
 If you need any custom IT or management solution, drop us a message today, and find out what you can get for your business. We will see what we can do. Even if we do not take the task, we may recommend somebody, who will do it for you, or advise something.
 
-
-
 .. form::
 
    {
     "schema": {
-        "title": "Request a callback",
+        "title": "Request a contact back",
+        "id":"callback-form",
         "type": "object",
         "properties": {
-            "name": {
+            "entry.1997704695": {
                 "type": "string",
                 "title": "Your Name",
                 "required":true,
             },
-            "callbackid": {
+            "entry.1801550200": {
                 "type": "string",
                 "title": "CallBack ID (Skype, phone, email)",
                 "required":true
             },
-            "message": {
+            "entry.1775857083": {
                 "type": "string",
                 "title": "Your Message (optional)"
             },
         }
     },
     "options": {
-                        "form":{
-                            "attributes":{
-                                "action":"http://httpbin.org/post",
-                                "method":"post"
-                            },
-                            "buttons":{
-                                "submit":{}
-                            },
+              "form": {
+                "attributes": {
+                   "method": "post",
+                   "action": "https://docs.google.com/forms/u/0/d/e/1FAIpQLScZnHpwC_U7namFAq5qH6jAGdiev4oBo2GCDDHQ6PTKqcgaIg/formResponse"
+                 },
+              "buttons": {
+                  "submit": {
+                       "title": "Bring it on!",
+                       "click": function(e) {
+                            var promise = this.ajaxSubmit();
+
+                           promise.done(function() {
+                                //alert("Success");
+                                window.location='thankyou/'
+                            });
+                            promise.fail(function() {
+                                //alert("Error");
+                                window.location='thankyou/'
+                            });
+                            promise.always(function() {
+                                //alert("Completed");
+                                window.location='thankyou/'
+                            });
+                       }
+                 }
+              },
 
                         },
                         "helper":"Send contact data, and we will get back to you",
                         "focus":false,
                         "hideInitValidationError":true
-                        }
-
-  }
+                  }
+     }

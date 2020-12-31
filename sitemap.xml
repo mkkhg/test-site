@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://khyzhnyakgroup.com/</loc>
-  <lastmod>2020-12-29T18:11:00Z</lastmod>
+  <lastmod>2020-12-30T20:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://khyzhnyakgroup.com/archive.html</loc>
-  <lastmod>2020-12-29T18:51:00Z</lastmod>
+  <lastmod>2020-12-30T20:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://khyzhnyakgroup.com/blog/</loc>
@@ -28,5 +28,9 @@
  <url>
   <loc>https://khyzhnyakgroup.com/listings/</loc>
   <lastmod>2020-12-24T00:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://khyzhnyakgroup.com/thankyou/</loc>
+  <lastmod>2020-12-30T20:02:00Z</lastmod>
  </url>
 </urlset>
