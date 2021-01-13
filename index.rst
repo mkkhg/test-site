@@ -33,61 +33,14 @@ Please choose a company, interesting for you:
 
 If you need any custom IT or management solution, drop us a message today, and find out what you can get for your business. We will see what we can do. Even if we do not take the task, we may recommend somebody, who will do it for you, or advise something.
 
-.. form::
+.. raw:: html
 
-   {
-    "schema": {
-        "title": "Request a contact back",
-        "id":"callback-form",
-        "type": "object",
-        "properties": {
-            "entry.1997704695": {
-                "type": "string",
-                "title": "Your Name",
-                "required":true,
-            },
-            "entry.1801550200": {
-                "type": "string",
-                "title": "CallBack ID (Skype, phone, email)",
-                "required":true
-            },
-            "entry.1775857083": {
-                "type": "string",
-                "title": "Your Message (optional)"
-            },
-        }
-    },
-    "options": {
-              "form": {
-                "attributes": {
-                   "method": "post",
-                   "action": "https://docs.google.com/forms/u/0/d/e/1FAIpQLScZnHpwC_U7namFAq5qH6jAGdiev4oBo2GCDDHQ6PTKqcgaIg/formResponse"
-                 },
-              "buttons": {
-                  "submit": {
-                       "title": "Bring it on!",
-                       "click": function(e) {
-                            var promise = this.ajaxSubmit();
+  <div class = "row justify-content-center">
 
-                           promise.done(function() {
-                                //alert("Success");
-                                window.location='thankyou/'
-                            });
-                            promise.fail(function() {
-                                //alert("Error");
-                                window.location='thankyou/'
-                            });
-                            promise.always(function() {
-                                //alert("Completed");
-                                window.location='thankyou/'
-                            });
-                       }
-                 }
-              },
+.. class:: jumbotron col-md-5
 
-                        },
-                        "helper":"Send contact data, and we will get back to you",
-                        "focus":false,
-                        "hideInitValidationError":true
-                  }
-     }
+          .. include:: include/form.txt
+
+.. raw:: html
+
+  </div>
