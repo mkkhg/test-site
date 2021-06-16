@@ -28,8 +28,8 @@ In the modern, fast-paced world, we do not promise a 100% result from the first 
 
 Please choose a company, interesting for you:
 
-- KhG solutions with operations management.
-- KhG solutions with Customer Support Centers.
+- KhG solutions with operations management. (https://vcoo.khyzhnyakgroup.com)
+- KhG solutions with Customer Support Centers. (https://usc.khyzhnyakgroup.com)
 
 If you need any custom IT or management solution, drop us a message today, and find out what you can get for your business. We will see what we can do. Even if we do not take the task, we may recommend somebody, who will do it for you, or advise something.
 
@@ -40,7 +40,7 @@ If you need any custom IT or management solution, drop us a message today, and f
 
 .. class:: jumbotron col-md-5
 
-          .. include:: include/form.txt
+          .. include:: ../common/include/form.txt
 
 .. raw:: html
 
