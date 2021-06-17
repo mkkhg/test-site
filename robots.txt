@@ -1,4 +1,4 @@
-Sitemap: https://codex.khyzhnyakgroup.com/sitemapindex.xml
+Sitemap: https://khyzhnyakgroup.com/sitemapindex.xml
 
 User-Agent: *
-Host: codex.khyzhnyakgroup.com
+Host: khyzhnyakgroup.com

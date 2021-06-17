@@ -1,4 +1,4 @@
-.. title: KhG Codex
+.. title: KhG Customer Support/Service Centers, MSPs - create&support service
 .. slug: index
 .. date: 2020-12-14 15:39:05 UTC-06:00
 .. tags:
@@ -8,38 +8,83 @@
 .. type: text
 .. logo_url: khg.emblem.jpg
 
-.. This are the rules that define how we work and cooperate with Clients and Colleagues.
+.. [Кто мы?]
 
-.. class:: fw-bold
+We are a Division of KhyzhnyakGroup. We organize and optimize Customer Support Centers.
 
- Values:
+.. [Чем полезны?]
 
-The only value we share - time.
+We do the following:
 
-.. class:: fw-bold
+- build new Support Centers from scratch.
+- increase the effectiveness of existing Support Centers.
 
-  Owners:
+You may choose any model for cooperation. For example, BOT model. We may create a Support Center, operate it, and transfer to your company later. Or we may supervise the Center until you need this.
 
-- Owners spend 5% or more of net profit on the charity. Anybody may propose the charity targets, and vote for any target.
+We prepare Suppor Centers, which:
 
-- Owners may not sell the company. However, owners may sell divisions and projects.
+- Solve all standard and some non-standard tasks for the support.
+- Take responsibility for decreasing the number of common issues and increasing the number of valuable features.
+- Support your engineering and marketing teams with Customers feedback.
+- Make Customers happy even with denials in service.
 
-  - Owners pay 5% of the sum of the deal after taxes to people from the sold unit, proportionally to their salaries.
+.. [Что для этого делаем?]
 
-.. class:: fw-bold
+For this we do the following:
 
-  Everyone:
+- Implement the culture of trust, loyalty, attention to Customers, experiments, and innovations.
+- Create a system of KPIs.
+- Hire new people.
+- Train people, both new and old.
+- Organize processes, including training. We use simplified ITIL for IT support.
+- Select and set up tools.
 
-- Everyone has to maximize the value, created by the company. *Value = Benefits to Others X Quality X Efficiency.*
+We prepare the Support, that allows your company to focus on your products. So your teams are sure that they get all useful information from your Customers.
 
-- Everyone suggests ideas of any size [#chad]_
+.. [Сценарии, когда к нам обращаются?]
 
-- Anyone may declare a time-out if they think things are going in the wrong direction [#chad]_
+You may hire us, when:
 
-- The person closest to a problem is the first responsible for figuring out how to solve it. [#chad]_
+- Your engineers are loaded with responses to Customer inquiries and questions instead of their direct job.
+- Your Customers are unsatisfied after contact with your Support Center.
+- Your Support Center does not pass valuable info to engineers and marketing.
+- Your Support Center rejects accountability for problem-solving.
+- Your people rotate within a few months.
 
-- Everybody either implements every innovation from anyone or explains in written form, why they will not implement it.
+.. [Тонкости нашей работы?]
 
-- Nobody fires people for cutting costs if there is any other choice. They may cut off profit, salaries, starting from top management, rearrange/reprofile people, if possible. But, repeating, they do not fire anyone if there is another choice.
+We know, how to:
 
-.. [#chad] formulated by Chad Fulgham, as written by Charles Duhigg
+- Let people take responsibility for Customer satisfaction.
+- Teach people to question and negotiate, so Customers are satisfied even with the denial of their requests.
+- Interest people in constant increase of values of their job, and the teamwork.
+- Aim people from mindless execution of procedures to the creation of value for Customers.
+- Set up the optimal delivery of information.
+- Set up a fast self-learning process for your people.
+- Keep knowledge inside the Center.
+- Create a distributed Support Center with remote work for most of the people.
+
+.. [Ограничения:]
+
+We do not work with companies, that:
+
+- value processes and procedures above all and that just require total compliance of actions to a template, without any purpose, or
+- do not value processes at all.
+
+Unfortunately, our knowledge is useless in these situations.
+
+Drop us a message today, and find out what you can get for your business!
+
+.. raw:: html
+
+ <div class = "container-fluid">
+  <div class = "row justify-content-center">
+
+.. class:: jumbotron col-md-5
+
+          .. include:: ../common/include/form.txt
+
+.. raw:: html
+
+  </div>
+  </div>
