@@ -1,4 +1,4 @@
-.. title: KhG Operational management service (Virtual COO)
+.. title: Welcome to KhG HQ!
 .. slug: index
 .. date: 2020-12-14 15:39:05 UTC-06:00
 .. tags:
@@ -8,63 +8,30 @@
 .. type: text
 .. logo_url: khg.emblem.jpg
 
-We are a Division of KhyzhnyakGroup. We organize and optimize the management of daily operations.
+We are KhyzhnyakGroup (KhG), a privately held group of businesses. The group is owned by the Khyzhnyak family.
+We specialize in organizational changes in operational management and Customer support.
 
-.. [What we do?]
+Currently, we have two directions - solutions with:
 
-We build organizational structures for you. We make the structures healthy and good enough to fit your needs. We operate and handoff them when ready.
+- Operational management (https://vcoo.khyzhnyakgroup.com)
+- Customer Support Centers. (https://usc.khyzhnyakgroup.com)
 
-.. [What’s the value for you? - REWRITE: Our Clients get maximum…?] - Эту часть бы вообще переписать!
+We focus mostly on IT related solutions. But you may ask questions and raise tasks from any industry. The main principles of management are independent of industries. Also, we have a broad network of experts in other industries. So if we do not take a task, we may recommend somebody, who can do it.
 
-We help you to get the maximum from your teams and your resources. We free up time for CEOs to work with strategies. We ensure the optimal use of resources. We support business expansion. Our structure and a good strategy provide an inflow of money to your company.
+We may consult you, as well as implement our solutions. We make decisions and implement them in collaboration with your people. For effective decisions and implementation, we use a network of experts and masters with broad competencies.
 
-.. [How we create value?]
+We build a task force for the exact task. The team has only needed people.
 
-For this help, we do the following:
+We are lazy in a good sense. We build adaptive and self-adjusting teams. So they do not require our regular management.
 
- - Set tactical goals on increasing value, produced by your company. We use the company strategy as a guideline. Our formula: Value = Benefits to users * Quality * Efficiency
- - Build up a culture of trust and commitment by teamwork principles from Google "Aristotle" project and Ray Dalio.
- - Create new and optimize old processes and KPIs in collaboration with the team.
- - Support daily operation with 4 Disciplines of execution.
- - Choose and optimize the tools. We may build custom tools from scratch.
+In the modern, fast-paced world, we do not promise a 100% result from the first try. But we apply all our efforts and resources up until your satisfaction.
 
-For optimization, we use the Theory of constraints, and the Theory of Inventive problem solving, also known as TRIZ, other tools and methods, and the help of your people.
+Please choose a company, interesting for you:
 
-.. [What’s the result?]
+- KhG solutions with operations management. (https://vcoo.khyzhnyakgroup.com)
+- KhG solutions with Customer Support Centers. (https://usc.khyzhnyakgroup.com)
 
-As a result - cumbersome systems of work control become obsolete, and your people pull your company up and forward with pleasure, on their own.
-
-Once we establish a management culture, we help to hire a new designated COO. We hand off the management to him/her.
-
-.. [When Clients hire us?]
-
-You may hire us, when you have a feeling that your company can perform better, or when something in daily operation is wrong, for example:
-
-  - There is a risk of loss of new or old clients, caused by product dissatisfaction.
-  - Your people do not work at full throttle and resign often. The system of staff control or kick driven management is cumbersome and time-consuming. The number of procedures and instructions is higher than the number of off-normal situations together. And there are 63 KPIs in the quarterly report, but it is still unclear how well the company performs.
-  - Your company has invested a lot of time and money in new CRM/ERP tools, but the company result is not improved.
-
-Also, you may hire us for business expansion. Startups may hire us too when they need a COO - a kind of a jack-of-all-trades.
-
-.. [What clients hire us?]
-
-Our services are useful for mid-sized companies (20-150 ppl), that:
-
-  - get ready to scale up their operations, or
-  - recently had explosive growth, and now have daily operations on fire, or
-  - cannot find appropriate COO for their culture.
-
-SOHO companies may also contact us.
-
-.. [What’s important in our job?]
-
-We add drive, initiative, responsibility, understanding of business needs to all your people. We show them how to excel in their work. We know how to get rid of rush jobs and work-to-rule. We build KPIs to control the progress toward company goals. We set effective processes along with the people.
-
-.. [What are our limitations?]
-
-Our services will not suit you if you believe in kick driven management or comprehensive instructions with task delegation and total control. But we will demonstrate good results, if you are looking for better management methods, or considering better results as the most important thing.
-
-Drop us a message today, and find out what you can get for your business!
+If you need any custom IT or management solution, drop us a message today, and find out what you can get for your business. We will see what we can do. Even if we do not take the task, we may recommend somebody, who will do it for you, or advise something.
 
 .. raw:: html
 
