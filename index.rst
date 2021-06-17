@@ -1,4 +1,4 @@
-.. title: KhG Customer Support/Service Centers, MSPs - create&support service
+.. title: KhG Operational management service (Virtual COO)
 .. slug: index
 .. date: 2020-12-14 15:39:05 UTC-06:00
 .. tags:
@@ -8,70 +8,61 @@
 .. type: text
 .. logo_url: khg.emblem.jpg
 
-.. [Кто мы?]
+We are a Division of KhyzhnyakGroup. We organize and optimize the management of daily operations.
 
-We are a Division of KhyzhnyakGroup. We organize and optimize Customer Support Centers.
+.. [What we do?]
 
-.. [Чем полезны?]
+We build organizational structures for you. We make the structures healthy and good enough to fit your needs. We operate and handoff them when ready.
 
-We do the following:
+.. [What’s the value for you? - REWRITE: Our Clients get maximum…?] - Эту часть бы вообще переписать!
 
-- build new Support Centers from scratch.
-- increase the effectiveness of existing Support Centers.
+We help you to get the maximum from your teams and your resources. We free up time for CEOs to work with strategies. We ensure the optimal use of resources. We support business expansion. Our structure and a good strategy provide an inflow of money to your company.
 
-You may choose any model for cooperation. For example, BOT model. We may create a Support Center, operate it, and transfer to your company later. Or we may supervise the Center until you need this.
+.. [How we create value?]
 
-We prepare Suppor Centers, which:
+For this help, we do the following:
 
-- Solve all standard and some non-standard tasks for the support.
-- Take responsibility for decreasing the number of common issues and increasing the number of valuable features.
-- Support your engineering and marketing teams with Customers feedback.
-- Make Customers happy even with denials in service.
+ - Set tactical goals on increasing value, produced by your company. We use the company strategy as a guideline. Our formula: Value = Benefits to users * Quality * Efficiency
+ - Build up a culture of trust and commitment by teamwork principles from Google "Aristotle" project and Ray Dalio.
+ - Create new and optimize old processes and KPIs in collaboration with the team.
+ - Support daily operation with 4 Disciplines of execution.
+ - Choose and optimize the tools. We may build custom tools from scratch.
 
-.. [Что для этого делаем?]
+For optimization, we use the Theory of constraints, and the Theory of Inventive problem solving, also known as TRIZ, other tools and methods, and the help of your people.
 
-For this we do the following:
+.. [What’s the result?]
 
-- Implement the culture of trust, loyalty, attention to Customers, experiments, and innovations.
-- Create a system of KPIs.
-- Hire new people.
-- Train people, both new and old.
-- Organize processes, including training. We use simplified ITIL for IT support.
-- Select and set up tools.
+As a result - cumbersome systems of work control become obsolete, and your people pull your company up and forward with pleasure, on their own.
 
-We prepare the Support, that allows your company to focus on your products. So your teams are sure that they get all useful information from your Customers.
+Once we establish a management culture, we help to hire a new designated COO. We hand off the management to him/her.
 
-.. [Сценарии, когда к нам обращаются?]
+.. [When Clients hire us?]
 
-You may hire us, when:
+You may hire us, when you have a feeling that your company can perform better, or when something in daily operation is wrong, for example:
 
-- Your engineers are loaded with responses to Customer inquiries and questions instead of their direct job.
-- Your Customers are unsatisfied after contact with your Support Center.
-- Your Support Center does not pass valuable info to engineers and marketing.
-- Your Support Center rejects accountability for problem-solving.
-- Your people rotate within a few months.
+  - There is a risk of loss of new or old clients, caused by product dissatisfaction.
+  - Your people do not work at full throttle and resign often. The system of staff control or kick driven management is cumbersome and time-consuming. The number of procedures and instructions is higher than the number of off-normal situations together. And there are 63 KPIs in the quarterly report, but it is still unclear how well the company performs.
+  - Your company has invested a lot of time and money in new CRM/ERP tools, but the company result is not improved.
 
-.. [Тонкости нашей работы?]
+Also, you may hire us for business expansion. Startups may hire us too when they need a COO - a kind of a jack-of-all-trades.
 
-We know, how to:
+.. [What clients hire us?]
 
-- Let people take responsibility for Customer satisfaction.
-- Teach people to question and negotiate, so Customers are satisfied even with the denial of their requests.
-- Interest people in constant increase of values of their job, and the teamwork.
-- Aim people from mindless execution of procedures to the creation of value for Customers.
-- Set up the optimal delivery of information.
-- Set up a fast self-learning process for your people.
-- Keep knowledge inside the Center.
-- Create a distributed Support Center with remote work for most of the people.
+Our services are useful for mid-sized companies (20-150 ppl), that:
 
-.. [Ограничения:]
+  - get ready to scale up their operations, or
+  - recently had explosive growth, and now have daily operations on fire, or
+  - cannot find appropriate COO for their culture.
 
-We do not work with companies, that:
+SOHO companies may also contact us.
 
-- value processes and procedures above all and that just require total compliance of actions to a template, without any purpose, or
-- do not value processes at all.
+.. [What’s important in our job?]
 
-Unfortunately, our knowledge is useless in these situations.
+We add drive, initiative, responsibility, understanding of business needs to all your people. We show them how to excel in their work. We know how to get rid of rush jobs and work-to-rule. We build KPIs to control the progress toward company goals. We set effective processes along with the people.
+
+.. [What are our limitations?]
+
+Our services will not suit you if you believe in kick driven management or comprehensive instructions with task delegation and total control. But we will demonstrate good results, if you are looking for better management methods, or considering better results as the most important thing.
 
 Drop us a message today, and find out what you can get for your business!
 
