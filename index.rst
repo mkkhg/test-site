@@ -1,4 +1,4 @@
-.. title: Welcome to KhG HQ!
+.. title: KhG Codex
 .. slug: index
 .. date: 2020-12-14 15:39:05 UTC-06:00
 .. tags:
@@ -8,41 +8,38 @@
 .. type: text
 .. logo_url: khg.emblem.jpg
 
-We are KhyzhnyakGroup (KhG), a privately held group of businesses. The group is owned by the Khyzhnyak family.
-We specialize in organizational changes in operational management and Customer support.
+.. This are the rules that define how we work and cooperate with Clients and Colleagues.
 
-Currently, we have two directions - solutions with:
+.. class:: fw-bold
 
-- Operational management (https://vcoo.khyzhnyakgroup.com)
-- Customer Support Centers. (https://usc.khyzhnyakgroup.com)
+ Values:
 
-We focus mostly on IT related solutions. But you may ask questions and raise tasks from any industry. The main principles of management are independent of industries. Also, we have a broad network of experts in other industries. So if we do not take a task, we may recommend somebody, who can do it.
+The only value we share - time.
 
-We may consult you, as well as implement our solutions. We make decisions and implement them in collaboration with your people. For effective decisions and implementation, we use a network of experts and masters with broad competencies.
+.. class:: fw-bold
 
-We build a task force for the exact task. The team has only needed people.
+  Owners:
 
-We are lazy in a good sense. We build adaptive and self-adjusting teams. So they do not require our regular management.
+- Owners spend 5% or more of net profit on the charity. Anybody may propose the charity targets, and vote for any target.
 
-In the modern, fast-paced world, we do not promise a 100% result from the first try. But we apply all our efforts and resources up until your satisfaction.
+- Owners may not sell the company. However, owners may sell divisions and projects.
 
-Please choose a company, interesting for you:
+  - Owners pay 5% of the sum of the deal after taxes to people from the sold unit, proportionally to their salaries.
 
-- KhG solutions with operations management. (https://vcoo.khyzhnyakgroup.com)
-- KhG solutions with Customer Support Centers. (https://usc.khyzhnyakgroup.com)
+.. class:: fw-bold
 
-If you need any custom IT or management solution, drop us a message today, and find out what you can get for your business. We will see what we can do. Even if we do not take the task, we may recommend somebody, who will do it for you, or advise something.
+  Everyone:
 
-.. raw:: html
+- Everyone has to maximize the value, created by the company. *Value = Benefits to Others X Quality X Efficiency.*
 
- <div class = "container-fluid">
-  <div class = "row justify-content-center">
+- Everyone suggests ideas of any size [#chad]_
 
-.. class:: jumbotron col-md-5
+- Anyone may declare a time-out if they think things are going in the wrong direction [#chad]_
 
-          .. include:: ../common/include/form.txt
+- The person closest to a problem is the first responsible for figuring out how to solve it. [#chad]_
 
-.. raw:: html
+- Everybody either implements every innovation from anyone or explains in written form, why they will not implement it.
 
-  </div>
-  </div>
+- Nobody fires people for cutting costs if there is any other choice. They may cut off profit, salaries, starting from top management, rearrange/reprofile people, if possible. But, repeating, they do not fire anyone if there is another choice.
+
+.. [#chad] formulated by Chad Fulgham, as written by Charles Duhigg
