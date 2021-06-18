@@ -10,7 +10,7 @@
 
 We are KhyzhnyakGroup (KhG), a privately held group of businesses. The group is owned by the Khyzhnyak family.
 
-We specialize in making organizations effective towards their goals.
+We specialize in increasing value, produced by organizations.
 
 Currently, we provide solutions with issues in:
 
