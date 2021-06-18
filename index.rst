@@ -12,7 +12,7 @@ We are KhyzhnyakGroup (KhG), a privately held group of businesses. The group is 
 
 We specialize in making organizations effective towards their goals.
 
-Currently, we provide solutions with:
+Currently, we provide solutions with issues in:
 
 - `Operational management  <https://vcoo.khyzhnyakgroup.com>`_
 - `Customer Support Centers/MSPs/IT departments <https://usc.khyzhnyakgroup.com>`_
