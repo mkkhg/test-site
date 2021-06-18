@@ -21,7 +21,7 @@ Here is our internal `Codex <https://codex.khyzhnyakgroup.com>`_.
 
 If you feel unsatisfied with the effectiveness of your organization, drop us a message today, and find out what you can get for your business. We will see what we can do for you.
 
-Please note, you don't have to pay if you get no expected results. We take payments for successful solutions only.
+*Please note, you don't have to pay if you get no expected results. We take payments for successful solutions only.*
 
 .. raw:: html
 
