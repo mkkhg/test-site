@@ -1,4 +1,4 @@
-.. title: KhG Customer Support/Service Centers, MSPs - create&support service
+.. title: KhG Operations Management team (Virtual COO)
 .. slug: index
 .. date: 2020-12-14 15:39:05 UTC-06:00
 .. tags:
@@ -8,60 +8,58 @@
 .. type: text
 .. logo_url: khg.emblem.jpg
 
-We are a Division of KhyzhnyakGroup. We organize and optimize Customer Support Centers.
+`KhG <https://khyzhnyakgroup.com/>`_ Operations Management team helps with bottlenecks/constraints in Operations and keeps the Operations going effectively.
 
-We do the following:
+We exploit and remove obstacles in the way of profit increase. We free up CEO time and resources from Operations for strategy and business development.
 
-- build new Support Centers from scratch.
-- increase the effectiveness of existing Support Centers.
+We consider that the weakness of the chain weakest link determines the chain strength. The same is true for organizations, even for business ones. One and only one constraint limits the company’s productivity and profit at a time.
 
-You may choose any model for cooperation. For example, BOT model. We may create a Support Center, operate it, and transfer to your company later. Or we may supervise the Center until you need this.
+Certain efforts applied to the constraint increase the company’s productivity and profit. While efforts applied to other points, with one exception, will not.
 
-We prepare Suppor Centers, which:
+We identify constraints in the company’s Operations and exploit and alleviate identified ones. We use the Theory of Constraints, and the Theory of Inventive problem solving, also known as TRIZ, other tools and methods, and the help of employees.
 
-- Solve all standard and some non-standard tasks for the support.
-- Take responsibility for decreasing the number of common issues and increasing the number of valuable features.
-- Support your engineering and marketing teams with Customers feedback.
-- Make Customers happy even with denials in service.
+For the alleviation, we may change things, from modifying infrastructure and optimizing existing procedures, or adding new procedures/processes, to building new departments and changing the corporate culture.
 
-For this we do the following:
+Also, we manage Operations on day to day basis. These CEOs who would like to have emotional contact with their people may deal with only one COO on our side. Once we establish the management culture, we may help to hire new designated COOs and hand off the management to them.
 
-- Implement the culture of trust, loyalty, attention to Customers, experiments, and innovations.
-- Create a system of KPIs.
-- Hire new people.
-- Train people, both new and old.
-- Organize processes, including training. We use simplified ITIL for IT support.
-- Select and set up tools.
+Our COOs share experience and expertise for better Operations handling. We add new members to our COO team, so Operations offices grow with companies, while CEOs still deal with one person. Having a back-office team of COOs means CEOs will never deal with situations like “COO on vacation” or “COO is tired and fired” anymore.
 
-We prepare the Support, that allows your company to focus on your products. So your teams are sure that they get all useful information from your Customers.
+We can build IT tools or modify/set up/deploy existing ones as well.
 
-You may hire us, when:
+CEOs come to us when they:
 
-- Your engineers are loaded with responses to Customer inquiries and questions instead of their direct job.
-- Your Customers are unsatisfied after contact with your Support Center.
-- Your Support Center does not pass valuable info to engineers and marketing.
-- Your Support Center rejects accountability for problem-solving.
-- Your people rotate within a few months.
+- afraid to open inbox or respond to calls, where they may encounter angry clients or employees with difficult questions.
+- decide to develop business and new strategies, but instead, spend time on firefighting in Operations.
+- develop business, but problems in Operations wipe out all the development.
+- feel that their companies may perform better.
 
-We know, how to:
+We may help if:
 
-- Let people take responsibility for Customer satisfaction.
-- Teach people to question and negotiate, so Customers are satisfied even with the denial of their requests.
-- Interest people in constant increase of values of their job, and the teamwork.
-- Aim people from mindless execution of procedures to the creation of value for Customers.
-- Set up the optimal delivery of information.
-- Set up a fast self-learning process for your people.
-- Keep knowledge inside the Center.
-- Create a distributed Support Center with remote work for most of the people.
+- employees do the same operation differently each time, with an unpredictable result.
+- clients complain about delays and low quality repeatedly.
+- CEOs can’t find out why company results are lower than planned.
+- employees complain about each other, quarrel, and quit frequently.
+- employees produce a lot of waste.
+- competitors excel with terms, quality or prices.
+- companies stay backward in their markets.
 
-We do not work with companies, that:
+Even if companies already have COOs, we may provide an audit of the Operations and add our experience and fresh look, assist COOs with Operations and Change Management.
 
-- value processes and procedures above all and that just require total compliance of actions to a template, without any purpose, or
-- do not value processes at all.
+Also, we find COOs for companies, bring them up to date, and pass the Operations management to them along with our supervision.
 
-There are a lot of consultants around who may help you in these cases.
+Our services are useful for small and mid-sized companies (10-150 ppl), that:
 
-Drop us a message today, and find out what you can get for your business!
+  - get ready to scale up their operations, or
+  - recently had explosive development, and now have daily operations on fire, or
+  - cannot find appropriate COO for their culture.
+
+We decipher Operations at almost any state, even if they are spread between heads of employees and Excel/G-tables. We find any constraint, especially if it is a chronic problem in the blind spot. We calculate the value for any job. We throw out the unneeded job from processes, but we know when to stop and when changes will not add value. We know how to get rid of rush jobs and work-to-rule. We may determine non-obvious bottlenecks in the infrastructure.
+
+If we are unsure of a change, we plan and experiment deliberately, as scientists in the Large Hadron Collider.
+
+We do not work with CEOs who look for operational slave-drivers for total control with whips. There are a lot of COOs around who believe in kick-driven management and will help with this. Also, we may be unable to help companies with paper document flow. In that case, you may need to go digital first.
+
+What is your current situation? How can we contact you for more info on it?
 
 .. raw:: html
 

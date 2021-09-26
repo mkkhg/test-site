@@ -1,4 +1,4 @@
-Sitemap: https://usc.khyzhnyakgroup.com/sitemapindex.xml
+Sitemap: https://vcoo.khyzhnyakgroup.com/sitemapindex.xml
 
 User-Agent: *
-Host: usc.khyzhnyakgroup.com
+Host: vcoo.khyzhnyakgroup.com
