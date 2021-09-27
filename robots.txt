@@ -1,4 +1,0 @@
-Sitemap: https://vcoo.khyzhnyakgroup.com/sitemapindex.xml
-
-User-Agent: *
-Host: vcoo.khyzhnyakgroup.com
