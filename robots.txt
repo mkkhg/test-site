@@ -1,0 +1,4 @@
+Sitemap: https://ocsm.khyzhnyakgroup.com/sitemapindex.xml
+
+User-Agent: *
+Host: ocsm.khyzhnyakgroup.com
